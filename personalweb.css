@@ -1,0 +1,158 @@
+h1{
+   margin: 3%  ;
+   font-family: 'Heebo', sans-serif;
+   font-size: 33px;
+}
+
+.headingstyle{
+  color:red;
+  font-size: 33px;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 800;
+
+}
+.halfview{
+    width: 40%; 
+    margin: 3%;
+    text-align: justify;
+    font-size: 24px;
+    font-family: 'Heebo', sans-serif;
+    padding: 2% ;
+    float: left;          
+
+
+}
+
+
+.halfview2{
+  width: 23%; 
+  margin: 2%;
+  text-align: justify;
+  font-size: 24px;
+  font-family: 'Heebo', sans-serif;
+  padding: 2%;
+  float:left;          
+
+
+}
+.halfview2 img{
+
+  width: 100%;
+}
+
+
+.halfview img{
+  width: 100%;
+
+
+
+}
+
+.anchorcls{
+    border: 4px;
+    text-decoration: none;
+    font-size: 23px;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px  ;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+} 
+.firstbanner{
+   background-image: url("personal-website/header-bg.png");
+     
+
+
+
+}
+section{
+
+
+    height:800px;
+}
+
+
+
+.biography-banner{
+  background-image: url("personal-website/biography-bg.png")
+
+
+
+}
+.lastone{
+   background-image: url("personal-website/latest-work-bg.png");
+        
+
+
+
+}
+h3{
+  font-size: 30px;
+  text-align: center;
+  color:darkblue;
+
+
+}
+.lastpage{
+  background-image: url("personal-website/footer-bg.png");
+
+
+
+
+}
+h4{
+   text-align:left;
+   font-size: 23px;
+   padding-left: 4%;
+}
+h5{
+   text-align:left;
+   font-size: 17px;
+   padding-left: 4%; 
+}
+
+.halfview3{
+  width: 40%; 
+  margin: 3%;
+  text-align:justify;
+  font-size: 24px;
+  font-family: 'Heebo', sans-serif;
+  padding: 2% ;
+  float: left;            
+
+
+}
+.boxadding{ 
+  box-shadow: 10px 10px 30px darkgray;
+  height: 40%;
+
+
+}
+.anchorcls1{
+  border: 4px;
+  text-decoration: none;
+  
+  font-size: 23px;
+  background-image: linear-gradient(lightsalmon,tomato);
+  padding: 30px 30px ;
+  border-radius: 10px;
+  color: white;
+  font-weight: 800;
+  text-align: center;
+} 
+div{
+   height: 100px;
+}
+h6{
+  text-align:center;
+  font-size: 22px;
+
+
+
+}
+footer{
+  text-align: center;
+
+
+
+}
